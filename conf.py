@@ -2,17 +2,17 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Manuale struttura accreditata"
-settings_copyright_copyleft = "AGCOM"
-settings_editor_name = "Agcom - Autorita per le garanzie nelle comunicazioni"
+settings_project_name = "Manuale redazionale per il sito dei Musei Civici di Palazzo pianetti"
+settings_copyright_copyleft = "Comune di Jesi"
+settings_editor_name = "Comune di Jesi"
 settings_doc_version = '1'
 settings_doc_release = '1.0'
-settings_file_name = 'ConciliaWeb'
+settings_file_name = 'Musei Civici di Palazzo Pianetti'
 
 
 import sys
 import os
-import cw_theme
+import jesi_rtd_theme
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -24,7 +24,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'cw_theme'
+    'jesi_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -90,9 +90,9 @@ if on_rtd:
     }
 
 # -- Options for HTML output ----------------------------------------------
-html_theme = 'cw_theme'
+html_theme = 'jesi_rtd_theme'
 
-html_theme_path = [cw_theme.get_html_theme_path()]
+html_theme_path = [jesi_rtd_theme.get_html_theme_path()]
 
 html_theme_options = {
     'collapse_navigation': True
