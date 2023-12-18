@@ -14,4 +14,4 @@ Slider dei musei
 
 Per la modifica dei contenuti dello slider dei musei premere dal menù di sinistra "Contenuto" -> "Contenuto Web" e navigare nelle cartelle "Homepage" -> "Top slider".
 Ogni contenuto corrisponde ad una slide dello slider.
-Per entrare in modifica premere l'azione "Modifica" dalla barra delle azioni.
+Per entrare in modifica premere l'azione "Modifica" dalla :ref:`barra delle azioni <section-barra-azioni>`.

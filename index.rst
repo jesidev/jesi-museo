@@ -12,5 +12,4 @@ Questo manuale è rivolto al redattore del sito dei Musei di Palazzo Pianetti e 
   manuale-museo/introduzione.rst
   manuale-museo/albero_navigazione.rst
   manuale-museo/ambiente_redazionale.rst
-  manuale-museo/homepage.rst
   

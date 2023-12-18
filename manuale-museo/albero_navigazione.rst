@@ -89,7 +89,7 @@ In questa sezione viene mostrato come spostare una pagina esistente sull'albero 
 Per spostare la pagina premere sul nome della pagina dall'albero di navigazione e, mantentendo premuto, trascinare la pagina nella nuova posizione desiserata.
 
 Per modificare il contenuto di una pagina presente, premere sul suo nome dall'albero di navigazione oppure navigare fino ad essa dal menù del sito.
-Premere sull'icona con i tre pallini blu e poi selezionare "Modifica Contenuto Web":
+Premere sull'icona con i tre puntini blu e poi selezionare "Modifica Contenuto Web":
 
 .. figure:: /media/modificapagina_contenuto.png
    :align: center
@@ -116,4 +116,37 @@ Per cancellare una pagina dall'albero di navigazione e quindi dal sito, premere 
    :name: azionipagina-child
    :alt: Cancellazione pagina
 
+Menù di navigazione
+-------------------
 
+La navigazione del sito avviene tramite diversi menù di navigazione definiti:
+
+.. figure:: /media/albero_navigazione.png
+   :align: center
+   :name: albero-navigazione
+   :alt: Albero di navigazione
+
+Per aggiungere o rimuovere elementi dai vari menù di navigazione prensenti premere "Site builder" e poi "Menù di navigazione" dal menù a sinistra:
+
+.. figure:: /media/menunavigazione_lista.png
+   :align: center
+   :name: menunavigazione-lista
+   :alt: Menù di navigazione - lista menù
+
+Dalla lista premere sull'icona con i tre puntini e premere "Modifica":
+
+.. figure:: /media/menunavigazione_modifica.png
+   :align: center
+   :name: menunavigazione-modifica
+   :alt: Menù di navigazione - modifica
+
+Per eliminare una voce dal menù di navigazione premere sull'icona con i tre puntini relativa e premere "Cancella".
+Per aggiungere una nuova voce premere il pulsante "Aggiungi" in alto a destra e selezionare "Pagina".
+Per le pagine del "Main menu", premedo sull'icona dei tre puntini e selezionado "View info" e possibile vedere e modificare l'id del contenuto web visibile nel megamenu.
+
+.. toctree::
+  :maxdepth: 3
+  :hidden:
+  :caption: Albero di navigazione
+
+  albero_navigazione/homepage.rst
