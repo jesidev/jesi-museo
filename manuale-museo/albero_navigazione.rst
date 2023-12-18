@@ -12,6 +12,7 @@ Per accedere alla gestione dell'albero di navigazione premere la voce "Albero pa
 
 Viene così mostrata la lista delle pagine di primo livello, premendo sull'icona con la freccia a sinistra della pagina è possibile vedere le pagine "figlie".
 
+
 Creazione nuova pagina
 ----------------------
 
@@ -82,6 +83,7 @@ Inserire tutti i campi necessari e dalla sezione "Cartella" presente nella spall
 
 Premere il tasto "Pubblica".
 
+
 Modifica pagina
 ---------------
 
@@ -105,6 +107,7 @@ Viene così mostrato il contenuto con i campi sui quali si può intervenire:
 
 Apportare le modifiche e premere il tasto "Pubblica".
 
+
 Cancellazione pagina
 --------------------
 
@@ -115,6 +118,7 @@ Per cancellare una pagina dall'albero di navigazione e quindi dal sito, premere 
    :align: center
    :name: azionipagina-child
    :alt: Cancellazione pagina
+
 
 Menù di navigazione
 -------------------

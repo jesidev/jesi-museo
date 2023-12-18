@@ -1,8 +1,11 @@
 Ambiente redazionale
 ====================
 
+.. _section-ambiente-redazionale:
+
 Questo capitolo descrive le operazioni generiche dell'ambiente redazionale.
 I contenuti sono amministrabili dalla sezione "Contenuto".
+
 
 Organizzazione contenuti
 ------------------------
@@ -24,6 +27,7 @@ Nella sezione "Documenti e media" vengono salvati immagini e documenti associati
    :alt: Organizzazione dei documenti e media
    
    Organizzazione dei documenti e media
+
 
 Barra delle azioni
 ------------------

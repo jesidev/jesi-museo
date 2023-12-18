@@ -3,6 +3,7 @@ Introduzione
 
 Questo capitolo descrive le operazioni preliminari per lo svolgimento dell'attività redazionale.
 
+
 Login
 -----
 
@@ -12,8 +13,8 @@ Per svolgere l'attività redazionale è necessario essere autenticati, l'accesso
    :align: center
    :name: login
    :alt: Login
-
-	Login
+   
+   Login
 
 Se l'accesso va a buon fine viene mostrata la barra dei comandi redazionali:
 
@@ -34,6 +35,7 @@ Nel caso sia aperto l'albero delle pagine è possibile accedere alla barra dei c
    Albero delle pagine
 
 Nelle prossime sezioni saranno spiegate le varie funzionalità messe a disposizione nell'ambiente radazionale.
+
 
 Logout
 ------
