@@ -11,6 +11,8 @@ Slider dei musei
    :align: center
    :name: hp-slidertop
    :alt: Slider dei musei
+   
+   Slider dei musei
 
 Per la modifica dei contenuti dello slider dei musei premere dal menù di sinistra "Contenuto" -> "Contenuto Web" e navigare nelle cartelle "Homepage" -> "Top slider".
 Ogni contenuto corrisponde ad una slide dello slider.

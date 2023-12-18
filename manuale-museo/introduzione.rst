@@ -13,12 +13,16 @@ Per svolgere l'attività redazionale è necessario essere autenticati, l'accesso
    :name: login
    :alt: Login
 
+	Login
+
 Se l'accesso va a buon fine viene mostrata la barra dei comandi redazionali:
 
 .. figure:: /media/accesso_comandi.png
    :align: center
    :name: accesso-comandi
    :alt: Menù redazionale
+   
+   Menù redazionale
 
 Nel caso sia aperto l'albero delle pagine è possibile accedere alla barra dei comandi premendo "Torna al menù" in alto a sinistra, verranno così mostrate tutte le voci:
 
@@ -26,6 +30,8 @@ Nel caso sia aperto l'albero delle pagine è possibile accedere alla barra dei c
    :align: center
    :name: accesso-pagine
    :alt: Albero delle pagine
+   
+   Albero delle pagine
 
 Nelle prossime sezioni saranno spiegate le varie funzionalità messe a disposizione nell'ambiente radazionale.
 
@@ -38,3 +44,5 @@ Per effettuare il logout dall'ambiente redazionale premere "Logout" dalla barra 
    :align: center
    :name: logout
    :alt: Logout
+   
+   Logout
