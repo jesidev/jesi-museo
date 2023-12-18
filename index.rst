@@ -1,7 +1,7 @@
 Manuale redazionale per il sito istituzionale dei Musei di Palazzo Pianetti
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lorem ipsum.....
+Questo manuale è rivolto al redattore del sito dei Musei di Palazzo Pianetti e spiega come utilizzare l'ambiente redazionale per la gestione dei contenuti del sito.
 
 .. toctree::
   :maxdepth: 3

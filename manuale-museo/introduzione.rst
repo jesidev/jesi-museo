@@ -33,3 +33,8 @@ Logout
 ------
 
 Per effettuare il logout dall'ambiente redazionale premere "Logout" dalla barra del menù in alto a destra.
+
+.. figure:: /media/logout.png
+   :align: center
+   :name: logout
+   :alt: Logout
