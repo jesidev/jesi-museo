@@ -121,10 +121,10 @@ Menù di navigazione
 
 La navigazione del sito avviene tramite diversi menù di navigazione definiti:
 
-.. figure:: /media/albero_navigazione.png
+.. figure:: /media/navigazione.png
    :align: center
-   :name: albero-navigazione
-   :alt: Albero di navigazione
+   :name: navigazione
+   :alt: Menù di navigazione
 
 Per aggiungere o rimuovere elementi dai vari menù di navigazione prensenti premere "Site builder" e poi "Menù di navigazione" dal menù a sinistra:
 
